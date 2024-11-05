@@ -1,0 +1,10 @@
+C:\Users\sanib\source\repos\Game2x2\Game2x2\bin\Debug\Game2x2.exe.config
+C:\Users\sanib\source\repos\Game2x2\Game2x2\bin\Debug\Game2x2.exe
+C:\Users\sanib\source\repos\Game2x2\Game2x2\bin\Debug\Game2x2.pdb
+C:\Users\sanib\source\repos\Game2x2\Game2x2\obj\Debug\Game2x2.csproj.AssemblyReference.cache
+C:\Users\sanib\source\repos\Game2x2\Game2x2\obj\Debug\Game2x2.Form1.resources
+C:\Users\sanib\source\repos\Game2x2\Game2x2\obj\Debug\Game2x2.Properties.Resources.resources
+C:\Users\sanib\source\repos\Game2x2\Game2x2\obj\Debug\Game2x2.csproj.GenerateResource.cache
+C:\Users\sanib\source\repos\Game2x2\Game2x2\obj\Debug\Game2x2.csproj.CoreCompileInputs.cache
+C:\Users\sanib\source\repos\Game2x2\Game2x2\obj\Debug\Game2x2.exe
+C:\Users\sanib\source\repos\Game2x2\Game2x2\obj\Debug\Game2x2.pdb
