@@ -22,11 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Bookmark",
@@ -52,7 +56,7 @@
               "RelativeDocumentMoniker": "Game2x2\\Form1.cs",
               "ToolTip": "C:\\Users\\sanib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0439 \u043A\u043E\u0434\\Game2x2\\Game2x2\\Form1.cs",
               "RelativeToolTip": "Game2x2\\Form1.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAwwGkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwGkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T07:37:09.405Z",
               "EditorCaption": ""
